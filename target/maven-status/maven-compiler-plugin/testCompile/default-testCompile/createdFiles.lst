@@ -1,0 +1,6 @@
+com\bdd\demo\stepdef\CucumberRunnerTest.class
+com\bdd\demo\stepdef\ContactUsTest.class
+com\bdd\demo\pages\LoginPage.class
+com\bdd\demo\stepdef\LoginTest.class
+com\bdd\demo\stepdef\ROUGHTEST.class
+com\bdd\demo\pages\WelcomePage.class
